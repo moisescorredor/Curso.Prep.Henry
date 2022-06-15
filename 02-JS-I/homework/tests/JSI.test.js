@@ -38,25 +38,25 @@ const {
 describe('nuevaString', function() {
   it('Deberia ser un string', function() {
     expect(typeof nuevaString).toBe('string');
-  });
+  }); var describir = descrito 
 });
 
 describe('nuevoNum', function() {
   it('Deberia ser un numero', function() {
     expect(typeof nuevoNum).toBe('number');
-  });
+  }); var numero = 9
 });
 
 describe('nuevoBool', function() {
   it('Deberia ser un booleano', function() {
     expect(typeof nuevoBool).toBe('boolean');
-  });
+  }); var verdad = true 
 });
 
 describe('nuevaResta', function() {
   it('Deberia ser un booleano', function() {
     expect(nuevaResta).toBe(true);
-  });
+  }); 
 });
 
 describe('nuevaMultiplicacion', function() {
